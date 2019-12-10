@@ -1,6 +1,6 @@
 package com.company.books;
 
-public class Book implements PrintableBookData {
+public class Book implements Printable {
     private String name;
     private String author;
     private int numberOfPages;

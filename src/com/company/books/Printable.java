@@ -1,5 +1,5 @@
 package com.company.books;
 
-public interface PrintableBookData {
+public interface Printable {
     void printBookData();
 }
